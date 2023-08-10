@@ -2,6 +2,7 @@ import unittest
 from box.box_class import Box
 
 class TestBox(unittest.TestCase):
+    
     def setUp(self):
 
         self.iters = 1000000
