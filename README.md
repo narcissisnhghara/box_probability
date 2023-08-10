@@ -11,7 +11,7 @@ To use the project, you can follow these steps:
    git clone https://github.com/your-username/box_probability.git
 
 2. Go to the folder:
-    cd box-project
+    cd box_probability
 
 3. Run the code:
     python main.py
