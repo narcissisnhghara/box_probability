@@ -10,7 +10,7 @@ class Box:
             colors (dict): dictionary of possible ball colors with corresponding probability weights
         """
 
-        # Extract textures and colors values from dictionaries
+        # Extract textures and colors from dictionaries
         self.textures_val = list(textures.keys())
         self.colors_val = list(colors.keys())
 
