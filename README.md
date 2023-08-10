@@ -8,7 +8,7 @@ It calculates the probabilities of each ball combination based on the number of 
 To use the project, you can follow these steps:
 
 1. Clone the repository:
-   git clone https://github.com/your-username/box-project.git
+   git clone https://github.com/your-username/box_probability.git
 
 2. Go to the folder:
     cd box-project
