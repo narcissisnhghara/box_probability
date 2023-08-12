@@ -1,5 +1,5 @@
 import unittest
-from box.box_new import Box
+from box.box_class import Box
 
 class TestBox(unittest.TestCase):
     def setUp(self):
