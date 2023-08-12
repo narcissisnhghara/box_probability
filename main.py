@@ -1,5 +1,5 @@
 
-from box.box_new import Box
+from box.box_class import Box
 from collections import Counter
 
 box = Box(num_balls=10000)
