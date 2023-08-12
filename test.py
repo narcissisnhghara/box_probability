@@ -1,11 +1,12 @@
 import unittest
-from box.box_class import Box
+from box.box_new import Box
 
 class TestBox(unittest.TestCase):
     def setUp(self):
 
-        self.iters = 1000000
-        self.box = Box()
+        self.iters = 100000
+        self.num_balls=10000
+        self.box = Box(num_balls=self.num_balls)
 
     def test_print_results(self):
 
